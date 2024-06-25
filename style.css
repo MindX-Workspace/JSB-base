@@ -1,0 +1,7 @@
+/* Làm khối container không bị có khoảng trắng */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
